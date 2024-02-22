@@ -1,0 +1,59 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:24:59] filterscripts = ""  (string)
+[20:24:59] 
+[20:24:59] Server Plugins
+[20:24:59] --------------
+[20:24:59]  Loading plugin: sampcac_server
+[20:24:59]   SA-MP Clientside AntiCheat v0.10.0 is being loaded ...
+[20:24:59]   Loaded.
+[20:24:59]  Loading plugin: mysql
+[20:24:59]   Failed.
+[20:24:59]  Loaded 1 plugins.
+
+[20:24:59] 
+[20:24:59] Ban list
+[20:24:59] --------
+[20:24:59]  Loaded: samp.ban
+[20:24:59] 
+[20:24:59] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:24:59] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:26:40] filterscripts = ""  (string)
+[20:26:40] 
+[20:26:40] Server Plugins
+[20:26:40] --------------
+[20:26:40]  Loading plugin: sampcac_server
+[20:26:40]   SA-MP Clientside AntiCheat v0.10.0 is being loaded ...
+[20:26:40]   Loaded.
+[20:26:40]  Loading plugin: mysql
+[20:26:40]   Failed.
+[20:26:40]  Loaded 1 plugins.
+
+[20:26:40] 
+[20:26:40] Ban list
+[20:26:40] --------
+[20:26:40]  Loaded: samp.ban
+[20:26:40] 
+[20:26:40] 
+[20:26:40] Filterscripts
+[20:26:40] ---------------
+[20:26:40]   Loaded 0 filterscripts.
+
+[20:26:40] Script[gamemodes/Tournament.amx]: Run time error 19: "File or function is not found"
+[20:26:40] Number of vehicle models: 0
